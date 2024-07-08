@@ -1,0 +1,30 @@
+{
+  "name": "inorganic-remover",
+  "version": "1.0.0",
+  "description": "This script removes the inorganic red frame when you want to certify a bot before updating it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "sowqa",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sowqa/Inorganic-Remover.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "inorganic"
+  ],
+  "bugs": {
+    "url": "https://github.com/sowqa/Inorganic-Remover/issues"
+  },
+  "homepage": "https://github.com/sowqa/Inorganic-Remover#readme"
+}
